@@ -1,0 +1,86 @@
+{
+  "id": "3520435",
+  "name": "莱头条",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "119107",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "894312",
+      "name": "五角星",
+      "font_class": "wujiaoxing",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "2681717",
+      "name": "五角星",
+      "font_class": "wujiaoxing1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6061533",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "ec7b",
+      "unicode_decimal": 60539
+    },
+    {
+      "icon_id": "6318181",
+      "name": "错",
+      "font_class": "cuo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9713068",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "16322875",
+      "name": "点赞",
+      "font_class": "dianzan_2",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "26237167",
+      "name": "点赞-2",
+      "font_class": "dianzan-2",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "1321306",
+      "name": "经典案例_空五角星_收藏",
+      "font_class": "jingdiananli_kongwujiaoxing_shoucang",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "3785793",
+      "name": "时钟",
+      "font_class": "shizhong",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "11372782",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e8c7",
+      "unicode_decimal": 59591
+    }
+  ]
+}
